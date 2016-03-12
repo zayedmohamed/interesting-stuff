@@ -1,6 +1,6 @@
 # Machine Learning
 ## Convolutional Neural Networks
-- Using OpenCV to implement convNets https://github.com/xingdi-eric-yuan
+- Using OpenCV to implement convNets on this [github](https://github.com/xingdi-eric-yuan)
 
 # Data Science
 ## Automated Data Science and Data Mining
