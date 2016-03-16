@@ -3,6 +3,11 @@
 - Using OpenCV to implement convNets on this [github](https://github.com/xingdi-eric-yuan)
 
 # Data Science
+
+## Data science News and more
+  - [Trello of Data Science](https://trello.com/b/rbpEfMld/data-science)
+  - [Unavoidable kdnuggets site] (http://www.kdnuggets.com)
+
 ## Automated Data Science and Data Mining
 
   - [Automatic Business Modeler from Algolytics](http://algolytics.com/products/automatic-business-modeler/), automatically builds accurate and interpretable predictive models.  Commercial.
