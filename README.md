@@ -9,7 +9,7 @@
 
 ## Data science News and more
   - Trello boards of [Data Science] (https://trello.com/b/rbpEfMld/data-science)
-  - Unavoidable [kdnuggets] site (http://www.kdnuggets.com)
+  - Unavoidable [kdnuggets](http://www.kdnuggets.com) site 
 
 ## Automated Data Science and Data Mining
 
