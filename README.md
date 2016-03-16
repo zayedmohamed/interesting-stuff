@@ -3,7 +3,10 @@
 - Using OpenCV to implement convNets on this [github](https://github.com/xingdi-eric-yuan)
 
 ## Conditional Random Fields as Recurrent Neural Networks
-- Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn) 
+- Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn)
+
+## Courses
+- Oxford Computer Science - Machine Learning 2015 [website](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) and the [github](https://github.com/oxford-cs-ml-2015)
 
 # Data Science
 
