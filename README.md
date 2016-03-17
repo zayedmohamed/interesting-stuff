@@ -5,6 +5,9 @@
 ## Conditional Random Fields as Recurrent Neural Networks
 - Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn)
 
+## Faster R-CNN
+- Towards Real-Time Object Detection with Region Proposal Networks, code is in this [github](https://github.com/rbgirshick/py-faster-rcnn) 
+
 ## Courses
 - Oxford Computer Science - Machine Learning 2015 [website](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) and the [github](https://github.com/oxford-cs-ml-2015)
 
