@@ -21,6 +21,9 @@
 ## Conditional Random Fields as Recurrent Neural Networks
 - Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn)
 
+## Automatic Images Colorization VGG16
+- Automatic Image Colorization [here](http://tinyclouds.org/colorize/)
+
 ## Faster R-CNN
 - Towards Real-Time Object Detection with Region Proposal Networks, code is in this [github](https://github.com/rbgirshick/py-faster-rcnn)
 
