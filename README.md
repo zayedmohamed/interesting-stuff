@@ -23,6 +23,7 @@
 
 ## Automatic Images Colorization VGG16
 - Automatic Image Colorization [here](http://tinyclouds.org/colorize/)
+- Learning Representations for Automatic Colorization [article](http://arxiv.org/pdf/1603.06668.pdf)
 
 ## Faster R-CNN
 - Towards Real-Time Object Detection with Region Proposal Networks, code is in this [github](https://github.com/rbgirshick/py-faster-rcnn)
