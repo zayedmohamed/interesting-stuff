@@ -8,6 +8,7 @@
 - Visualizing MNIST: An Exploration of Dimensionality Reduction [here] (http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 - Visualizing Representations: Deep Learning and Human Beings [here] (http://colah.github.io/posts/2015-01-Visualizing-Representations/)
 - Inceptionism: Going Deeper into Neural Networks [here](http://googleresearch.blogspot.fr/2015/06/inceptionism-going-deeper-into-neural.html)
+- An Interactive Node-Link Visualization of Convolutional Neural Networks [here] (http://scs.ryerson.ca/~aharley/vis/)
 
 ## Convolutional Neural Networks
 - Using OpenCV to implement convNets on this [github](https://github.com/xingdi-eric-yuan)
