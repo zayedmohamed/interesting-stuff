@@ -17,7 +17,7 @@ For Asymmetric encryption you must first generate your private key and extract t
 
 ```sh
 openssl genrsa -aes256 -out private.key 8912
-openssl -in private.key -pubout -out public.key
+openssl rsa -in private.key -pubout -out public.key
 ```
 
 #### To encrypt:
