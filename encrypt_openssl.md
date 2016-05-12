@@ -30,6 +30,22 @@ openssl rsautl -encrypt -pubin -inkey public.key -in plaintext.txt -out encrypte
 openssl rsautl -decrypt -inkey private.key -in encrypted.txt -out plaintext.txt
 ```
 
+### GENERATE CERTIFICATE
+
+#### Generate certificate from known private Key:
+```sh
+openssl req \
+       -key private.key \
+       -new -out certificate.csr
+```
+
+#### Generate certificate from scratch:
+```sh
+openssl req \
+       -newkey rsa:2048 -nodes -keyout private.key \
+       -out certificate.csr
+```
+
 ### ENCRYPT LARGE FILE
 
 You can't directly encrypt a large file using rsautl. instead, do something like the following:
