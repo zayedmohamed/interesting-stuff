@@ -33,6 +33,9 @@
 - Oxford Computer Science - Machine Learning 2015 [website](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) and the [github](https://github.com/oxford-cs-ml-2015)
 - Stanford CS231n: Convolutional Neural Networks for Visual Recognition [website](http://cs231n.github.io/)
 
+## Books
+- Deep Learning, authors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Book in preparation for MIT Press [here](http://www.deeplearningbook.org/)
+
 # Data Science
 
 ## Data science News and more
