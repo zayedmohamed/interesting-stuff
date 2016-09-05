@@ -18,6 +18,13 @@
 - Understanding LSTM Networks [here](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Deep Learning, NLP, and Representations [here](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
+### Tutorial 
+This tutorial contains interactive explanation of the functionality and structure of Convolutional Neural Network. It also demonstrates the Convolunational Neural Network through an interactive workout example.
+- Interactive Explanation of the Basics of Convolutional Neural Network [Part (1)] (https://youtu.be/WXqSNuTiEEg)
+- Demonstration of the Convolunational Neural Network through an interactive workout example [Part (2)] (https://youtu.be/L1F1E5UTSCo)
+- Demonstration of the Convolunational Neural Network through an interactive workout example [Part (3)] (https://youtu.be/L1F1E5UTSCo)
+- For more information and interactive discussions on other important topics you can also visit this [YouTube channel] (https://www.youtube.com/channel/UC95bRAbJdLyXGbMfNemr9lQ) 
+
 
 ## Conditional Random Fields as Recurrent Neural Networks
 - Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn)
