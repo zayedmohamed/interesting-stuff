@@ -28,10 +28,14 @@ This tutorial contains interactive explanation of the functionality and structur
 - Demonstration of the Convolunational Neural Network through an interactive workout example [Part (3)] (https://youtu.be/L1F1E5UTSCo)
 - For more information and interactive discussions on other important topics you can also visit this [YouTube channel] (https://www.youtube.com/channel/UC95bRAbJdLyXGbMfNemr9lQ)
 
-
+## Recurrent Neural Networks
+- The Unreasonable Effectiveness of Recurrent Neural Networks [here] (http://karpathy.github.io/2015/05/21/rnn-effectiveness/). You can train your own models using the [char-rnn code] (https://github.com/karpathy/char-rnn) I released on Github (under MIT license). It is worth to say at this level that there is a keras implementation of text generation [here] (https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)
 
 ## Conditional Random Fields as Recurrent Neural Networks
 - Semantic Image Segmentation [demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo) and the code is in this [github](https://github.com/torrvision/crfasrnn)
+
+## Spatial Transformer Networks
+- The power of Spatial Transformer Networks [here](http://torch.ch/blog/2015/09/07/spatial_transformers.html). The code to reproduce same results or even get better is [here](https://github.com/moodstocks/gtsrb.torch) ones: they provide a fancy way to [mass benchmark] (https://github.com/Moodstocks/gtsrb.torch/blob/master/docs/bench.md) configurations to help you do that.
 
 ## Automatic Images Colorization VGG16
 - Automatic Image Colorization [here](http://tinyclouds.org/colorize/)
@@ -45,7 +49,7 @@ This tutorial contains interactive explanation of the functionality and structur
 - Stanford CS231n: Convolutional Neural Networks for Visual Recognition [website](http://cs231n.github.io/)
 
 ## Books
-- Deep Learning, authors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Book in preparation for MIT Press [here](http://www.deeplearningbook.org/)
+- Deep Learning, authors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Book in preparation for MIT Press [here](http://www.deeplearningbook.org/). You can find link to exercises [here] (http://www.deeplearningbook.org/exercises.html) 
 
 # Data Science
 
