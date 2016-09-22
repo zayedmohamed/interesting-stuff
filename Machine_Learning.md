@@ -1,4 +1,4 @@
-# Machine Learning
+# Deep Learning
 ## Neural Networks
 - Calculus on Computational Graphs: Backpropagation [here](http://colah.github.io/posts/2015-08-Backprop/)
 - Neural Networks, Manifolds, and Topology [here](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
@@ -47,9 +47,16 @@ This tutorial contains interactive explanation of the functionality and structur
 ## Courses
 - Oxford Computer Science - Machine Learning 2015 [website](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) and the [github](https://github.com/oxford-cs-ml-2015)
 - Stanford CS231n: Convolutional Neural Networks for Visual Recognition [website](http://cs231n.github.io/)
+- This online course show you how to train and optimize basic neural networks, convolutional neural networks, and long short term memory networks [website](https://www.udacity.com/course/deep-learning--ud730)
+
+## Summer School
+- 26 things I learned in the the deep learning summer school by Marek Rei [here](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/) also you can find Slides and exercises for the Deep Learning Summer School 2015 programming tutorials [here](https://github.com/mila-udem/summerschool2015)
 
 ## Books
-- Deep Learning, authors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Book in preparation for MIT Press [here](http://www.deeplearningbook.org/). You can find link to exercises [here] (http://www.deeplearningbook.org/exercises.html) 
+- Deep Learning, authors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Book in preparation for MIT Press [here](http://www.deeplearningbook.org/). You can find link to exercises [here] (http://www.deeplearningbook.org/exercises.html)
+
+## Papers
+- The 9 Deep Learning Papers You Need To Know About [here](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 # Data Science
 
