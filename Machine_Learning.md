@@ -58,6 +58,10 @@ This tutorial contains interactive explanation of the functionality and structur
 ## Papers
 - The 9 Deep Learning Papers You Need To Know About [here](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
+## deep learning links
+- [awesome tensorflow] (https://github.com/jtoy/awesome-tensorflow)
+- [awesome very deep learning] (https://github.com/daviddao/awesome-very-deep-learning)
+
 # Data Science
 
 ## Data science News and more
