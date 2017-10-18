@@ -81,3 +81,4 @@ This tutorial contains interactive explanation of the functionality and structur
 - Fanfiction, Graphs, and PageRank [here](http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/)
 - Data.List Recursion Illustrated [here](http://colah.github.io/posts/2015-02-DataList-Illustrated/)
 - Visual Information Theory [here](http://colah.github.io/posts/2015-09-Visual-Information/)
+- Jupyter Notebooks on AWS EC2 in 15 (mostly easy) steps [here](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
